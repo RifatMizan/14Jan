@@ -1,0 +1,8 @@
+E:\msd projects\Day 18\LabTest03App\LabTest03App\obj\Debug\LabTest03App.ProductStoreDisplay.resources
+E:\msd projects\Day 18\LabTest03App\LabTest03App\obj\Debug\LabTest03App.Properties.Resources.resources
+E:\msd projects\Day 18\LabTest03App\LabTest03App\obj\Debug\LabTest03App.csproj.GenerateResource.Cache
+E:\msd projects\Day 18\LabTest03App\LabTest03App\bin\Debug\LabTest03App.exe.config
+E:\msd projects\Day 18\LabTest03App\LabTest03App\bin\Debug\LabTest03App.exe
+E:\msd projects\Day 18\LabTest03App\LabTest03App\bin\Debug\LabTest03App.pdb
+E:\msd projects\Day 18\LabTest03App\LabTest03App\obj\Debug\LabTest03App.exe
+E:\msd projects\Day 18\LabTest03App\LabTest03App\obj\Debug\LabTest03App.pdb
